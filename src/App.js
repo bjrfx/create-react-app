@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React-test-app 
+          Create-react-app
         </a>
         <a
           className="App-link"
@@ -23,7 +23,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         <i> BJRfx </i> 
+        by <i> BJRfx </i> 
         </a>
       </header>
     </div>
