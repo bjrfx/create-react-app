@@ -17,6 +17,14 @@ function App() {
         >
           React-test-app 
         </a>
+        <a
+          className="App-link"
+          href="https://brave-bay-06596e510.2.azurestaticapps.net/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+         <i> BJRfx </i> 
+        </a>
       </header>
     </div>
   );
